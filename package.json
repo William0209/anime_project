@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "caniuse-lite": "^1.0.30001655",
+    "framer-motion": "^11.3.31",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
