@@ -12,7 +12,7 @@ function Hero() {
           className="object-contain"
         />
         <h1 className="sm:text-6xl text-5xl text-white lg:max-w-lg font-bold leading-[120%]">
-          Explore The <span className="red-gradient">Diverse Realms</span> of
+          Explore And<span className="red-gradient">Gain Inspiration</span> In The World Of
           Anime
         </h1>
       </div>
